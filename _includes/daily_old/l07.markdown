@@ -1,0 +1,31 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 7 <br>
+Tue, 2/19
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+The journey from source code to executable code: preprocessor, compiler, linker, assemly code, object code, executable code.
+
+Structures.
+
+Defining data structures in C.
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+</p>
+</div>
+
+</div>

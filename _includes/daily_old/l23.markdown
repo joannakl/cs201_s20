@@ -1,0 +1,34 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 23 <br>
+Tue, 4/23
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+
+Processes: what are they, program vs. process, CPU's interaction with processes, kernel and its role. 
+
+[slides](https://docs.google.com/presentation/d/1h7jwHuenCk9uCmY_Fornuy1_uuOId3rNSBP7lV5FAkY/present?token=AC4w5VgKClosBiAETr7kbhfZgiyyE-dvxg%3A1523387323535&includes_info_params=1#slide=id.g10f3b8246b_0_165)
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+</div>

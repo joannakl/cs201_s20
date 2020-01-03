@@ -1,0 +1,32 @@
+<div class="lecture2">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 26 <br>
+Thu, 5/2
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Finish with processes.
+
+Dynamic memory allocation.
+
+[slides](https://docs.google.com/presentation/d/1RNbWdNHf5FMm3LH9rG70nSnllZvG1nSJNXpfsPmYJPc/present?token=AC4w5VgOYSM8skX5YPp8pHuAIkFsKsXY5Q%3A1525120846333&includes_info_params=1#slide=id.g10f3b8246b_0_165)
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+</p>
+</div>
+
+</div>

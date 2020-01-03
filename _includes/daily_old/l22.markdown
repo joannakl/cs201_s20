@@ -1,0 +1,32 @@
+<div class="lecture2">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 22 <br>
+Thu, 4/18
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Cache memories -  a big picture.
+
+Examples of how to improve cache performance of code. 
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Reading: chapter 8.
+
+
+</p>
+</div>
+
+</div>

@@ -1,0 +1,38 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 15 <br>
+Tue, 3/26
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+Machine level programming: arithmetic and logical operations.
+
+[slides](https://docs.google.com/presentation/d/1Bmpjmoh4q32m2Y2DmqzYO516q4e3UUuSGUQ0yRD_qNM/preview#slide=id.p) <br>
+
+Additional resources:
+
+- compile C to assembly in your browser: [CompilerExplorer](https://godbolt.org/)
+- [x86-64 "cheat sheet" from Brown](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+- [GDB "cheat sheet" from Brown](http://cs.brown.edu/courses/cs033/docs/guides/gdb.pdf)
+- [another GDB cheat sheet](http://csapp.cs.cmu.edu/3e/docs/gdbnotes-x86-64.pdf)    
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Read chapter 3 (skip 3.11)
+
+</p>
+</div>
+
+</div>

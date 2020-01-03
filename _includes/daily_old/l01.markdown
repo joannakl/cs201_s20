@@ -1,0 +1,35 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 1 <br>
+Tue, 1/29
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Introduction: [course overview](https://docs.google.com/presentation/d/1FDBdgx6__VNYBIebKRCKuTfhcC_icDYKXinsQnE36Ic/preview?slide=id.p) and [syllabus]({{ site.url }}/syllabus.html).  
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+- read the  [syllabus]({{ site.url }}/syllabus.html), make sure you understand
+the rules for grading, due dates, lateness, etc.
+
+- read chapter 1 in BO (BO = Bryant, O'Hallaron "Computer Systems - A Programmer's Perspective" )
+
+- read any C reference (The C Programming Language book, if you got it, or any other reference - post links to good ones on Piazza)
+
+</p>
+</div>
+
+</div>

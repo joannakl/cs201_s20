@@ -1,0 +1,33 @@
+<div class="lecture2">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 4 <br>
+Thu, 2/7
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Continue with pointers in C: three _ideas_ associated with each
+variable (value, memory addresses, size of memory block),
+names of arrays as pointers, using pointers with subscript operator.
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Finish the remaining problems for the activity. 
+
+
+</p>
+</div>
+
+</div>

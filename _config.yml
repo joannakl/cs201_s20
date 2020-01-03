@@ -1,0 +1,91 @@
+
+title: CSCI-UA 201 (Computer Systems Organization)
+short_title: CS 201
+description: "Course website for CSCI-UA 201 (Computer Systems Organization) course."
+
+baseurl: "/cs201_s19" # the subpath of your site, e.g. /blog
+url: "https://joannakl.github.io/cs201_s19" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+kramdown:
+  entity_output: numeric
+  smart_quotes: apos,apos,quot,quot
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+
+course_number: "CSCI-UA 201"
+course_name: "Computer Systems Organization"
+course_section: "003"
+course_semester: "Spring 2019"
+course_time: "<br>Tuesdays and Thursdays 9:30AM - 10:45AM, CIWW, Room 109"
+
+recitation_section1: "004"
+recitation_time1:  "Mondays 11:00AM - 12:15PM, CIWW 202"
+recitation_section2: "007"
+recitation_time2:  "Mondays 3:30PM - 4:45PM, CIWW 202"
+recitation_section3: "008"
+recitation_time3:  "Tuesdays 3:30PM - 4:45PM, CIWW 202"
+recitation_instructor1_full: "Christopher Moirano"
+recitation_instructor2_full: "Sai Anirudh Kondaveeti"
+recitation_instructor1_name: "Chris"
+recitation_instructor2_name: "Anirudh"
+course_assistant_name: "Arnav"
+course_assistant_name_full: "Arnav Kansal"
+
+
+instructor_office_hours: "Mondays 12:30 - 2:30pm, Thursdays 11:00am - 12:00pm,
+(or you can schedule an appointment if these times do not work for you)"
+instructor_office_hours_location: "423 CIWW"
+recitation1_office_hours: "Mondays 10am-11am, Mondays 5pm-6pm, Tuesdays 3pm-4pm"
+recitation1_office_hours_location: "412 CIWW"
+recitation2_office_hours: "Wednesdays 2:00-3:30pm "
+recitation2_office_hours_location: "412 CIWW"
+course_assistant_office_hours: "Thursdays, 4:30-6:30pm"
+course_assistant_office_hours_location: "412 CIWW"
+
+current_course1_title: "CSCI 201 sec. 3"
+current_course1_link: "https://cs.nyu.edu/~joannakl/cs201_s19/"
+current_course2_title: "CSCI 480 sec. 4 (APS)"
+current_course2_link: "https://cs.nyu.edu/~joannakl/aps_s19/"
+current_course3_title: "CSCI 480 sec. 10 (OSSD)"
+current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s19/"
+
+#tutor_location: "406 WWH"
+#tutor_schedule_link: "http://cims.nyu.edu/~joannakl/CSCI102_common/#tutoring"
+
+online_test_date: "Thursday, February 28, during class"
+midterm_exam_date: "Thursday, March 14, during class"
+final_exam_date: "Monday, May 20, 8:00-9:50am"
+final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
+
+piazza_site: http://piazza.com/nyu/spring2019/csci201
+gradescope_site: "https://gradescope.com/"
+github_site: "https://github.com/nyu-cs201-s19"
+
+book_required: "Computer Systems: A Programmer's Perspective, "
+book_required_author: "Randal E. Bryant and David R. O'Hallaron, "
+book_required_edition: "**3rd** edition, "
+book_required_link: http://csapp.cs.cmu.edu/
+book_required_note: " (the previous editions of the book will not work, international edition of the book
+had some mistakes as of a year ago) "
+book_required_image: "http://csapp.cs.cmu.edu/3e/images/csapp3e-cover.jpg"
+
+book_opt_1: "The C programming language, "
+book_opt_1_author: "Brian W. Kernighan, Dennis Ritchie, "
+book_opt_1_edition: "**2nd** edition, "
+book_opt_1_link: ""
+book_opt_1_note: "Optional, but strongly recommended (you can use any C programming book as an alternative)."
+book_opt_1_image: "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133086216.jpg"
+
+
+book_opt_2: "C Essential Training, "
+book_opt_2_author: "Isac Artzi, "
+book_opt_2_edition: "Lynda.com tutorial, "
+book_opt_2_link: "https://www.lynda.com/C-tutorials/C-Essential-Training/164457-2.html?org=nyu.edu"
+book_opt_2_note: "You can use this online tutorial to dig into topics that you do not feel confident on.
+But you should be compiling your code using GCC, not Eclipse."
+book_opt_2_image: "https://cdn.lynda.com/static/images/consumermigration/Lynda Icon_2x.png"

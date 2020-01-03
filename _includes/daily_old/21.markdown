@@ -1,0 +1,37 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 19 <br>
+April 9
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+
+
+Memory hierarchy, part 2: cache memories.
+
+[slides](https://docs.google.com/presentation/d/1UlAVniCKnyGFnZk7QTFUwiZsnIfJY8xHbhjg2vGb6i0/present?token=AC4w5VjBzwZ8NzWZUKJNk_Vwk55eWS2gOw%3A1523284491057&includes_info_params=1#slide=id.p)
+
+
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+</div>

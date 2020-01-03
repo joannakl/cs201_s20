@@ -1,0 +1,41 @@
+<div class="lecture2">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 16 <br>
+Thu, 3/28
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+Control structures.
+
+[slides](https://docs.google.com/presentation/d/1xBRBB-zCWUfjCTA9X8QBkmeOkz4qVaZXL01MzWXfya8/present?token=AC4w5Viwi-jxPXnA2o7yoeJATGclhSziNg%3A1521548170906&includes_info_params=1#slide=id.p)
+
+
+
+Additional resources:
+
+- [Assembly to C Example](https://www.youtube.com/watch?v=wy3e52A7Lu8) by Chris Gregg 
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+Project 3 posted. Repositories available on GitHub on March 30. Due date April 10.
+
+
+
+</p>
+</div>
+
+</div>

@@ -1,0 +1,37 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 25 <br>
+Tue, 4/30
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+More on processes: Linux process hierarchy, shells, signals.
+
+[slides](https://docs.google.com/presentation/d/1keaeAI4jJGX8paECxuWxbbfsiXnCWFDtNfFxunpgBJA/present?token=AC4w5ViD1NP6iRq15CD6UDureP-VSr8t1w%3A1524505487961&includes_info_params=1#slide=id.g10f3b8246b_0_165)
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+- Project 5 posted (repositories available on GitHub).
+
+  Due: May 8.
+
+
+- Reading chapter 9.
+
+</p>
+</div>
+
+</div>

@@ -1,0 +1,32 @@
+<div class="lecture2">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 10 <br>
+Thu, 2/28
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+__Online test available through NYU Classes.__
+
+You can take this test from anywhere, but you have to take it during the regular class time.
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Reading: chapter 3
+
+
+</p>
+</div>
+
+</div>

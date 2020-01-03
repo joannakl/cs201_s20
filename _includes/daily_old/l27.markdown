@@ -1,0 +1,33 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 27 <br>
+Tue, 5/7
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+
+Dynamic memory allocators: general considerations/constraints,
+header structure, implicit free list, explicit free list, segregated and sorted lists.  
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+</div>

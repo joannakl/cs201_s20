@@ -1,0 +1,80 @@
+---
+layout: default
+title: Daily
+days:
+#    - "r01"
+#    - "l01"
+#    - "l02"
+#    - "r02"
+#    - "l03"
+#    - "l04"
+#    - "change_2_9"
+#    - "r03"
+#    - "l05"
+#    - "l06"
+#    - "change_2_17"
+#    - "l07"
+#    - "l08"
+#    - "r04"
+#    - "l09"
+#    - "l10"
+#    - "r05"
+#    - "l11"
+#    - "l12"
+#    - "r06"
+#    - "l13"
+#    - "l14"
+#    - "r07"
+#    - "change_3_16-22"
+#    - "l15"
+#    - "l16"
+#    - "r08"
+#    - "l17"
+#    - "l18"
+#    - "change_4_3"
+#    - "r09"
+#    - "l19"
+#    - "l20"
+#    - "r10"
+#    - "l21"
+#    - "l22"
+#    - "r11"
+#    - "l23"
+#    - "l24"
+#    - "r12"
+#    - "l25"
+#    - "l26"
+#    - "r13"
+#    - "l27"
+#    - "l28"
+#    - "r14"
+#    - "review"
+#    - "final"
+---
+
+<div class="titles">
+    <div class="column_date">
+        Date
+    </div>
+
+    <div class="column_materials">
+        Material Covered, Notes, Handouts and Links
+    </div>
+
+    <div class="column_assign">
+        Readings, Assignments, Homework
+    </div>
+</div>
+
+
+
+{% for i in page.days reversed %}
+    {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
+    {% capture my_include %}{% include {{ file_name }} %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+{% endfor %}
+
+
+<br>
+<br>

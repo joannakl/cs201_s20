@@ -1,0 +1,33 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+Class # 2 <br>
+Thu, 1/31
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Starting with C and Linux: intro to compiling and running code in a terminal,
+basic Unix/Linux commands, stages of compilation process, C basics (data types,
+control flow, printf, functions, scope, header files)
+
+[lecture 2](notes/Lecture02-C_basics.pdf), part 1
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+</div>

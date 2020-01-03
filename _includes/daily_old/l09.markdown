@@ -1,0 +1,40 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 9 <br>
+Tue, 2/26  
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+
+
+Data representation: more on integer representation, casting, truncating, overflow due to addition and multiplication.
+
+
+Data representation: floating point numbers, IEEE 754 encoding
+
+[slides](https://docs.google.com/presentation/d/1h0W3hDXrmpl1g6VAcyVisWNTMXcdWdv3uKg4AA3XJ7M/preview?slide=id.p)
+
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+
+</div>
