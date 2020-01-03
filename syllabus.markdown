@@ -29,7 +29,7 @@ Your grade will be based on:
 * projects (25% total)
 * recitation activities (5% total) <br>
   activities will be completed during recitations - you will not get credit for these unless you are in the recitation session <br>
-  three lowest recitation scores will be dropped at the end of the semester
+  two lowest recitation scores will be dropped at the end of the semester
 * quizzes (5% total) <br>
   pop-quizzes will be given during lectures and will **not be announced** - no make-up quizzes will be given  <br>
   two lowest quiz scores will be dropped at the end of the semester
@@ -55,7 +55,7 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
 
 I generally do not take attendance.
 
-__The missed quizzes and recitation activities cannot be made up__. Three lowest scores on recitation activities and two lowest scores on quizzes will be dropped at the end of the
+__The missed quizzes and recitation activities cannot be made up__. Two lowest scores on recitation activities and two lowest scores on quizzes will be dropped at the end of the
 semester. This is to account for any excused and unexcused absences.
 
 The exams can be made up only in case of an excused absence with appropriate documentation.

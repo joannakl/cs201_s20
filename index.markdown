@@ -12,8 +12,8 @@ title: Course Essentials
 
 <p class="hang" markdown="1"><span class="emph">Recitations:</span> <br>
 {{ site.recitation_section1 }}: {{ site.recitation_time1 }}, {{ site.recitation_instructor1_full }} <br>
-{{ site.recitation_section2 }}: {{ site.recitation_time2 }}, {{ site.recitation_instructor1_full }} <br>
-{{ site.recitation_section3 }}: {{ site.recitation_time3 }}, {{ site.recitation_instructor2_full }} <br>
+{{ site.recitation_section2 }}: {{ site.recitation_time2 }}, {{ site.recitation_instructor2_full }} <br>
+{{ site.recitation_section3 }}: {{ site.recitation_time3 }}, {{ site.recitation_instructor1_full }} <br>
 (__attendance is mandatory__ - you have to be able to attend the recitation for which you are registered;
 if you have a conflict with that time, you need to register for a different section of the recitation or
 different section of this course)</p>
@@ -59,7 +59,7 @@ start getting failing grades because it might be too late by then.
 ---
 **Computer Systems Organization**
 
-CSCI-UA 201 Prerequisite: Data Structures (CSCI-UA 102). 4 points. Covers the internal structure of computers, machine (assembly) language programming, and the use of pointers in high-level languages. Topics include the logical design of computers, computer architecture, the internal representation of data, instruction sets, and addressing logic, as well as pointers, structures, and other features of high-level languages that relate to assembly language. Programming assignments are in both assembly language and other languages. <br>
+CSCI-UA 201 Prerequisite: Data Structures (CSCI-UA 102). 4 credits. Covers the internal structure of computers, machine (assembly) language programming, and the use of pointers in high-level languages. Topics include the logical design of computers, computer architecture, the internal representation of data, instruction sets, and addressing logic, as well as pointers, structures, and other features of high-level languages that relate to assembly language. Programming assignments are in both assembly language and other languages. <br>
 
 
 # Important Dates
