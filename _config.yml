@@ -40,9 +40,9 @@ course_assistant_name_full: "Muge Chen"
 instructor_office_hours: "Mondays 12:30 - 2:30pm, Thursdays 11:00am - 12:00pm,
 (or you can schedule an appointment if these times do not work for you)"
 instructor_office_hours_location: "423 CIWW"
-recitation1_office_hours: "TBD"
+recitation1_office_hours: "Tuesdays 11:00-12:30, Wednesdays 10:00-11:30"
 recitation1_office_hours_location: "412 CIWW"
-recitation2_office_hours: "TBD "
+recitation2_office_hours: "Mondays 1:00-2:30 "
 recitation2_office_hours_location: "412 CIWW"
 course_assistant_office_hours: "TBD"
 course_assistant_office_hours_location: "412 CIWW"
@@ -89,3 +89,11 @@ book_opt_2_link: "https://www.lynda.com/C-tutorials/C-Essential-Training/164457-
 book_opt_2_note: "You can use this online tutorial to dig into topics that you do not feel confident on.
 But you should be compiling your code using GCC, not Eclipse."
 book_opt_2_image: "https://cdn.lynda.com/static/images/consumermigration/Lynda Icon_2x.png"
+
+
+book_opt_2: "Dive Into Systems, "
+book_opt_2_author: "Suzanne J. Mathews, Tia Newhall, Kevin C. Webb, "
+book_opt_2_edition: "online book "
+book_opt_2_link: "https://diveintosystems.cs.swarthmore.edu/x86_64/antora/diveintosystems/beta/index.html"
+book_opt_2_note: "(make sure that you access the x86_64 editiion) "
+book_opt_2_image: ""
