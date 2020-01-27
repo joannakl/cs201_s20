@@ -10,10 +10,20 @@ Recitation  1<br>
 <div class="column_recitation">
 <p markdown="block">
 
+- complete this [consent form](https://forms.gle/GvnoQAS1Vn6kpcBX8)
+- complete this [questionnaire](https://forms.gle/ZeoNNpyuAhAz4fE2A) - if you do not have a GitHub account, create one first
+
+
+You will get an email from Github with an invitation to join the nyu-cs201-s20 organization. Follow the instructions to accept the invitation. Once you have accepted the invitation you will be able to see the materials for this course, including rec1 repository and your private version of it, which you will be working on during the first recitation. (If you are registering late, or complete this form late, you may need to let your instructor know, so that we can create an account for you in the course organization.)
+
+
+
+see [rec1](https://github.com/nyu-cs201-s20/rec1) repository for the instructions for this recitation
+
+
 
 
 </p>
 </div>
 
 </div>
-
