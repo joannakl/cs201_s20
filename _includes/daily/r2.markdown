@@ -10,10 +10,9 @@ Recitation  2<br>
 <div class="column_recitation">
 <p markdown="block">
 
-
+recitation 2 available at [the course organization on GitHub](https://github.com/nyu-cs201-s20)
 
 </p>
 </div>
 
 </div>
-

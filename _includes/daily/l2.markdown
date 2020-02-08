@@ -11,7 +11,12 @@ Thu, 1/30
 <div class="column_materials">
 <p markdown="block">
 
+Intro to C: looking at the source code: data types and their sizes,
+functions and passing parameters to functions, globals and why you should
+not use them.
 
+
+lecture02 repository available at [the course organization on GitHub](https://github.com/nyu-cs201-s20)
 
 </p>
 </div>
@@ -25,4 +30,3 @@ Thu, 1/30
 </div>
 
 </div>
-

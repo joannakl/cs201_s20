@@ -11,6 +11,14 @@ Thu, 2/06
 <div class="column_materials">
 <p markdown="block">
 
+In-class pop-quiz.
+
+Intro to C: looking at the source code: static arrays, using pointers to
+access static arrays, arrays of characters vs. strings, null terminated strings.  
+
+
+lecture02 repository available at [the course organization on GitHub](https://github.com/nyu-cs201-s20)
+
 
 
 </p>
@@ -25,4 +33,3 @@ Thu, 2/06
 </div>
 
 </div>
-

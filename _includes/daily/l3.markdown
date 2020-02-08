@@ -12,6 +12,12 @@ Tue, 2/04
 <p markdown="block">
 
 
+Intro to C: looking at the source code: what do variables have? (value, type, location/address), pointers as variables whose value is a memory
+address, assigning memory addresses of existing variables to pointer variables, writing a swap function using pointers, pointer arithmetic.
+
+
+lecture02 repository available at [the course organization on GitHub](https://github.com/nyu-cs201-s20)
+
 
 </p>
 </div>
@@ -19,10 +25,9 @@ Tue, 2/04
 <div class="column_assign">
 <p markdown="block">
 
-
+- read [chapter 2](https://diveintosystems.cs.swarthmore.edu/x86_64/antora/diveintosystems/beta/C_depth/index.html) in DIS (DIS = Dive Into Systems)
 
 </p>
 </div>
 
 </div>
-
