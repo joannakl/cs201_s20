@@ -11,6 +11,9 @@ Thu, 2/20
 <div class="column_materials">
 <p markdown="block">
 
+Online exam.
+
+Login to NYU Classes during the class time. You can take the exam from a location of your choice.
 
 
 </p>
@@ -25,4 +28,3 @@ Thu, 2/20
 </div>
 
 </div>
-

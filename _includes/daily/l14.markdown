@@ -11,7 +11,7 @@ Thu, 3/12
 <div class="column_materials">
 <p markdown="block">
 
-
+Class canceled. 
 
 </p>
 </div>
@@ -25,4 +25,3 @@ Thu, 3/12
 </div>
 
 </div>
-

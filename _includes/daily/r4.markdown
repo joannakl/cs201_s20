@@ -11,9 +11,9 @@ Recitation  4<br>
 <p markdown="block">
 
 
+recitation 4 available at [the course organization on GitHub](https://github.com/nyu-cs201-s20) shortly before your recitation meeting 
 
 </p>
 </div>
 
 </div>
-

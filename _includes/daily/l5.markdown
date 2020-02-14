@@ -11,7 +11,8 @@ Tue, 2/11
 <div class="column_materials">
 <p markdown="block">
 
-
+Intro to C: structure definitions and use, creating first linked list (not a very good one)
+without dynamic memory allocation, using `malloc` and `free` to manage memory on the heap. 
 
 </p>
 </div>
@@ -25,4 +26,3 @@ Tue, 2/11
 </div>
 
 </div>
-

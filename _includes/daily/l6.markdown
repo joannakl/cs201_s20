@@ -11,6 +11,12 @@ Thu, 2/13
 <div class="column_materials">
 <p markdown="block">
 
+Intro to C:
+dynamic memory allocation, creating a simple linked list,
+allocating memory with `malloc` in the add function, releasing memory
+with `free` in the remove function; using valgrind to check memory performance of programs;
+stages of program compilation: preprocessing, compilation proper, building, linking.
+
 
 
 </p>
@@ -19,10 +25,11 @@ Thu, 2/13
 <div class="column_assign">
 <p markdown="block">
 
+Project 1 repositories available in the course organization.
 
+Due date: Feb. 23.
 
 </p>
 </div>
 
 </div>
-
