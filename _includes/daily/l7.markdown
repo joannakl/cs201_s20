@@ -12,6 +12,14 @@ Tue, 2/18
 <p markdown="block">
 
 
+Intro to C: finish up, separate compilation, header files.
+
+Data representation: Integers <br>
+Bit vectors, two's complements and how are  binary level of representing integer data types in C.
+
+
+[slides](https://docs.google.com/presentation/d/1BpqqURc7MyEsB5l1j7-UHgTpZ9fIEkL_HkiaWreMprY/preview?slide=id.p)
+
 
 </p>
 </div>
@@ -25,4 +33,3 @@ Tue, 2/18
 </div>
 
 </div>
-
