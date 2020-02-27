@@ -11,7 +11,14 @@ Thu, 2/27
 <div class="column_materials">
 <p markdown="block">
 
+Finish with integer representation: memory layout of integers, big-endian vs little-endian
+conventions.
 
+Data representation: floating point numbers <br>
+
+[slides](https://docs.google.com/presentation/d/1h0W3hDXrmpl1g6VAcyVisWNTMXcdWdv3uKg4AA3XJ7M/preview?slide=id.p)
+
+[Float toy](http://evanw.github.io/float-toy/) - a tool for exploring floating point numbers. 
 
 </p>
 </div>
@@ -19,10 +26,10 @@ Thu, 2/27
 <div class="column_assign">
 <p markdown="block">
 
-
+Readings:
+- chapter 2.4 in BO
 
 </p>
 </div>
 
 </div>
-

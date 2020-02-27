@@ -12,6 +12,13 @@ Tue, 2/25
 <p markdown="block">
 
 
+Data representation: Integers <br>
+Unsigned and two's complement encodings. Adding and multiplying values. Situation in which
+results of arithmetic operations overflow. Using bit shift operations as an alternative to
+multiplication to improve efficiency.
+
+
+
 
 </p>
 </div>
@@ -19,10 +26,11 @@ Tue, 2/25
 <div class="column_assign">
 <p markdown="block">
 
+Reading:
+- chapter 2.2, 2.3 in BO
 
 
 </p>
 </div>
 
 </div>
-

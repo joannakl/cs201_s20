@@ -27,6 +27,8 @@ Bit vectors, two's complements and how are  binary level of representing integer
 <div class="column_assign">
 <p markdown="block">
 
+Reading:
+- chapter 2.1 in BO
 
 
 </p>
