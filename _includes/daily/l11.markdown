@@ -11,7 +11,7 @@ Tue, 3/03
 <div class="column_materials">
 <p markdown="block">
 
-
+Continue with floating point numbers representation.
 
 </p>
 </div>
@@ -19,10 +19,9 @@ Tue, 3/03
 <div class="column_assign">
 <p markdown="block">
 
-
+Start reading chapter 3. 
 
 </p>
 </div>
 
 </div>
-

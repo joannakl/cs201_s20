@@ -11,7 +11,7 @@ Tue, 3/10
 <div class="column_materials">
 <p markdown="block">
 
-__Midterm exam. __
+__Midterm exam.__
 
 </p>
 </div>
@@ -19,6 +19,7 @@ __Midterm exam. __
 <div class="column_assign">
 <p markdown="block">
 
+__Project 2 due date postponed to Monday, March 16.__
 
 
 </p>

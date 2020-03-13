@@ -11,7 +11,13 @@ Thu, 3/12
 <div class="column_materials">
 <p markdown="block">
 
-Class canceled. 
+First remote class. Join through NYU Classes (Zoom link in the side bar.)
+
+
+Start machine level programming.
+
+[slides](https://docs.google.com/presentation/d/1Bmpjmoh4q32m2Y2DmqzYO516q4e3UUuSGUQ0yRD_qNM/preview#slide=id.p) <br>
+
 
 </p>
 </div>
@@ -19,6 +25,8 @@ Class canceled.
 <div class="column_assign">
 <p markdown="block">
 
+Reading:
+- chapter 3.1-3.5 
 
 
 </p>
