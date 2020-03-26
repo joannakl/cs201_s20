@@ -13,6 +13,12 @@ Tue, 3/24
 
 
 
+Introduction to  machine level programming, continued.
+Registers, their sizes, mov* instruction, memory addressing modes.
+
+[slides](https://docs.google.com/presentation/d/1Bmpjmoh4q32m2Y2DmqzYO516q4e3UUuSGUQ0yRD_qNM/preview#slide=id.p) (same deck as last class)
+
+
 </p>
 </div>
 
@@ -25,4 +31,3 @@ Tue, 3/24
 </div>
 
 </div>
-

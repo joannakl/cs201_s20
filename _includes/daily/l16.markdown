@@ -12,6 +12,22 @@ Thu, 3/26
 <p markdown="block">
 
 
+Control structures in assembly.
+
+[slides](https://docs.google.com/presentation/d/1xBRBB-zCWUfjCTA9X8QBkmeOkz4qVaZXL01MzWXfya8/present?token=AC4w5Viwi-jxPXnA2o7yoeJATGclhSziNg%3A1521548170906&includes_info_params=1#slide=id.p)
+
+
+Additional resources:
+
+- compile C to assembly in your browser: [CompilerExplorer](https://godbolt.org/)
+- [x86-64 "cheat sheet" from Brown](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
+- [GDB "cheat sheet" from Brown](http://cs.brown.edu/courses/cs033/docs/guides/gdb.pdf)
+- [another GDB cheat sheet](http://csapp.cs.cmu.edu/3e/docs/gdbnotes-x86-64.pdf)    
+- [x64 _Cheat Sheet_ from Brown](https://cs.brown.edu/courses/csci0330/docs/guides/x64_cheatsheet.pdf)
+- [Assembly to C Example](https://www.youtube.com/watch?v=wy3e52A7Lu8) by Chris Gregg
+
+
+
 
 </p>
 </div>
@@ -25,4 +41,3 @@ Thu, 3/26
 </div>
 
 </div>
-
