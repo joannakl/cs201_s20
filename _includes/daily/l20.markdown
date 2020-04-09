@@ -11,6 +11,15 @@ Thu, 4/09
 <div class="column_materials">
 <p markdown="block">
 
+Arrays, structures and other things in assembly.
+
+[slides](https://docs.google.com/presentation/d/1hGbHZ_meujo1_hJvmIFbKTATxrtt1nIbytjXOuZ5FOE/present?token=AC4w5Vj1wpDQmyp58_MN6SOe_6coDl8gww%3A1522150953368&includes_info_params=1#slide=id.p)
+
+
+Examples:
+
+- [static array](https://godbolt.org/g/cdGX4A)
+- [structure alignment](https://godbolt.org/g/j7wAKf)
 
 
 </p>
@@ -19,10 +28,9 @@ Thu, 4/09
 <div class="column_assign">
 <p markdown="block">
 
-
+Start reading chapter 6 (The Memory Hierarchy). 
 
 </p>
 </div>
 
 </div>
-
