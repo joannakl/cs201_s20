@@ -12,6 +12,10 @@ Thu, 4/16
 <p markdown="block">
 
 
+Memory hierarchy.
+
+[slides](https://docs.google.com/presentation/d/1HRvUTmTSC29k14TYzLu_n1bzsBJ0KKW4AhBtCT1JeEY/present?token=AC4w5VjT_9Vjx63Q_1bhyNvQQ-BWVv5WVQ%3A1522851031101&includes_info_params=1#slide=id.g121da87875_1_1339)
+
 
 </p>
 </div>
@@ -19,10 +23,11 @@ Thu, 4/16
 <div class="column_assign">
 <p markdown="block">
 
-
+Reading:
+- chapter 6
+- start reading chapter 8 
 
 </p>
 </div>
 
 </div>
-

@@ -11,7 +11,8 @@ Tue, 4/14
 <div class="column_materials">
 <p markdown="block">
 
-
+Parts of a binary executable file: .rodata, .data, .text sections.
+Tools for _looking_ at different parts of the binary files. 
 
 </p>
 </div>
@@ -25,4 +26,3 @@ Tue, 4/14
 </div>
 
 </div>
-
