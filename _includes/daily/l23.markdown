@@ -11,6 +11,12 @@ Tue, 4/21
 <div class="column_materials">
 <p markdown="block">
 
+Memory hierarchy, part 2: cache memories.
+
+[slides](https://docs.google.com/presentation/d/1UlAVniCKnyGFnZk7QTFUwiZsnIfJY8xHbhjg2vGb6i0/present?token=AC4w5VjBzwZ8NzWZUKJNk_Vwk55eWS2gOw%3A1523284491057&includes_info_params=1#slide=id.p)
+
+
+
 
 
 </p>
@@ -25,4 +31,3 @@ Tue, 4/21
 </div>
 
 </div>
-
