@@ -26,6 +26,7 @@ Memory hierarchy, part 2: cache memories.
 <p markdown="block">
 
 
+Start reading chapter 8, sections 1-4.
 
 </p>
 </div>
