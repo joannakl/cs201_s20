@@ -11,7 +11,7 @@
 <div class="column_materials">
 <p markdown="block">
 <br><br>
-May 20, __8:00-9:50am__, __109 CIWW__, Final Exam
+May 18, __8:00-9:50am__, __109 CIWW__, Final Exam
 <br><br>
 
 </p>

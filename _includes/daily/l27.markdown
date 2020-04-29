@@ -12,6 +12,11 @@ Tue, 5/05
 <p markdown="block">
 
 
+Dynamic memory allocation.
+
+[slides](https://docs.google.com/presentation/d/1RNbWdNHf5FMm3LH9rG70nSnllZvG1nSJNXpfsPmYJPc/present?token=AC4w5VgOYSM8skX5YPp8pHuAIkFsKsXY5Q%3A1525120846333&includes_info_params=1#slide=id.g10f3b8246b_0_165)
+
+
 
 </p>
 </div>
@@ -25,4 +30,3 @@ Tue, 5/05
 </div>
 
 </div>
-

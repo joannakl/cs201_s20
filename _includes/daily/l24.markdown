@@ -11,6 +11,7 @@ Thu, 4/23
 <div class="column_materials">
 <p markdown="block">
 
+Finish with memory hierarchies.
 
 
 Processes: what are they, program vs. process, CPU's interaction with processes, kernel and its role.
